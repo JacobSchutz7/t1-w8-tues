@@ -6,3 +6,7 @@
 - Technique of keeping internal state of object hidden from the outside. 
 - Acheived using private attributes and providing public methods to access and update them. 
 - Syntax: __varname
+
+### Abstraction 
+- Concept of hiding the complex implementation details and showing only the necessary features of an object. 
+- 
